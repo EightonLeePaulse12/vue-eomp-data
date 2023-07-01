@@ -126,26 +126,44 @@
     {
       "id": 1,
       "name": "Laiquah Cotie",
+      "role":"Colleague",
       "image": "https://i.postimg.cc/Gp1FhgH6/C12-Laiquah-Cotie-2.jpg",
       "testimonial": "Eighton-Lee is a team player and a vibrant person. His a hard-worker and always tries his best at getting a job done higher than the standards set. I would recommend him if you need someone who is committed and motivated to get a job done."
     },
     {
       "id": 2,
       "name": "Ganiefah Majiet",
+      "role":"Colleague",
       "image": "https://i.postimg.cc/V6MTJMHZ/Ganiefah-Majiet.png",
       "testimonial": "It's always a pleasure to work with Eighton-Lee. He has an infectious personality and he always brings out the best in others. He motivates everyone around him and he's always ready to offer a helping hand to anybody when needed. He has a go getter mindset that he applies himself to and does his best to achieve what he wants. I would definitely recommend him."
     },
     {
       "id": 3,
       "name": "Nuraan Samodien",
+      "role":"Colleague",
       "image": "https://i.postimg.cc/9XNK88tH/Nuraan.jpg",
       "testimonial": "Eighton-Lee is a highly thought intellectual from my perspective. He is passionate, ambitious, hardworking and always provides a helping hand to anyone who needs it. He has great communication and leadership skills and any company would be lucky to have him on their team."
     },
     {
       "id": 4,
       "name": "Mish-Al Taliep",
+      "role":"Colleague",
       "image": "https://i.postimg.cc/WbpYMtW3/Mish-Al-Taliep.jpg",
       "testimonial": "Eighton-Lee is an excellent student. He is always improving and looking for ways to up-skill himself. He shows good work ethics and is academically strong."
+    },
+    {
+        "id":5,
+        "name":"Uzukhanye Dywili",
+        "role":"Life Choices Academy Assistant Lecturer",
+        "image":"https://i.postimg.cc/XYWV4fQJ/Uzukhanye-Dywili.jpg",
+        "testimonial":"Working with Eighton-Lee was an incredible experience. Their professionalism, attention to detail, and communication skills made the entire process seamless. They consistently exceeded my expectations and delivered exceptional results. I would highly recommend Eighton-Lee to anyone looking for a talented and dedicated professional."
+    }
+    ,{
+        "id":6,
+        "name":"Joel Mukhanya",
+        "role":"Life Choices Academy Lecturer",
+        "image":"https://i.postimg.cc/5NZY6mgJ/IMG-20201209-WA0066.jpg",
+        "testimonial":"Eighton-lee is very well-behaved, social, and dedicated. He enjoys working with his peers and works well on his projects. He learned HTML, CSS, Bootstrap, Javascript and VueJS."
     }
   ]
 }
