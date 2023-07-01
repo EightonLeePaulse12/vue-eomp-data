@@ -1,0 +1,151 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "skill": "HTML",
+      "image": "https://i.postimg.cc/13LwKKym/Why-HTML5-is-causing-the-ad-industry-pain-removebg-preview.png"
+    },
+    {
+      "id": 2,
+      "skill": "CSS",
+      "image": "https://i.postimg.cc/3RpTvYnr/download-icon-css-3-svg-eps-png-psd-ai-logo-vector-color-free-removebg-preview.png"
+    },
+    {
+      "id": 3,
+      "skill": "Javascript",
+      "image": "https://i.postimg.cc/T1RP9KyY/window-request-Animation-Frame.png"
+    }
+  ],
+  "tools": [
+    {
+      "id": 1,
+      "name": "Bootstrap",
+      "type": "CSS Library",
+      "image": "https://i.postimg.cc/WzBq7NP9/download-logo-bootstrap-icon-svg-eps-png-psd-ai-vector-color-free-removebg-preview.png"
+    },
+    {
+      "id": 2,
+      "name": "Vue js",
+      "type": "Javascript Framework",
+      "image": "https://i.postimg.cc/hvst3T63/Vue-js-Logo-2-svg.png"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "name": "Helderkruin Primary",
+      "image": "https://i.postimg.cc/SRgkyVgc/school.jpg",
+      "description": "I spent my primary school years at Helderkruin Primary. This is where I learnt basic knowledge and made my first few friends. It was also during this period that I discovered my love for computers and games.",
+      "type": "Primary School",
+      "years": "2010 - 2017"
+    },
+    {
+      "id": 2,
+      "name": "Malibu High School",
+      "image": "https://i.postimg.cc/htZVHt12/picture-of-school.jpg",
+      "description": "Malibu High school is where I spent my final years at school. I learnt so much during this period and this I become the person I am today during this part of my life. This is where my interest in coding sparked.",
+      "type": "High School",
+      "years": "2018 - 2022"
+    },
+    {
+      "id": 3,
+      "name": "Life Choices Academy",
+      "image": "https://i.postimg.cc/rm4ggWN2/clement-helardot-95-YRwf6-CNw8-unsplash.jpg",
+      "description": "Life Choices Academy is where I started my journey as a developer. The main focus during this course is web development and this course is a huge kickstart to my career.",
+      "type": "Tertiary Education",
+      "years": "2023 - 2023"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "To-Do List",
+      "image": "https://i.postimg.cc/cHXhPrWH/to-do-list.png",
+      "description": "We were tasked during the Javascript module to build a To-do list. It was quite a fun experience and it elevated my skills in applying Javascript to the next level.",
+      "host": "https://myjstodolist12.netlify.app/",
+      "github": "https://github.com/EightonLeePaulse12/New-To-do-list.git"
+    },
+    {
+      "id": 2,
+      "name": "Calculator",
+      "image": "https://i.postimg.cc/GpKRHxrm/calc.png",
+      "description": "This is my Javascript Calculator. Probably one of my most favourite projects that I have build. I learnt so much while building this application and I also use it whenever I need to calculate something.",
+      "host": "https://myjavascriptcalculator123.netlify.app/",
+      "github": "https://github.com/EightonLeePaulse12/JS-Calculator.git"
+    },
+    {
+      "id": 3,
+      "name": "Random Meme Generator",
+      "image": "https://i.postimg.cc/BtfZxZzS/memes.png",
+      "description": "This was a project that I built using an API that generates random memes. Before we started learning how to use and manipulate APIs, I took initiative one day whilst being bored to build my own project and this amazing, entertaining app is what I ended up building.",
+      "host": "https://random-meme-generator12324354.netlify.app/",
+      "github": "https://github.com/EightonLeePaulse12/Random-Meme-Generator.git"
+    },
+    {
+      "id": 4,
+      "name": "Stop Watch",
+      "image": "https://i.postimg.cc/dtZ5W2WN/stop.png",
+      "description": "This is a project I built once when I was incredibly bored at home. I wanted to learn more about Javascript timing functions and searched for a project to build. This is also one of my most favourite projects that I ever built.",
+      "host": "https://my-stop-watch1241421.netlify.app/",
+      "github": "https://github.com/EightonLeePaulse12/JS-Stop-Watch"
+    },
+    {
+      "id": 5,
+      "name": "Pokédex App",
+      "image": "https://i.postimg.cc/qRdGZS51/Screenshot-2023-06-30-162513.png",
+      "description": "Another project I built to improve my skill using Javascript. This Pokédex gives you basic data about the popular anime series, Pokémon's first group of Pokémon.",
+      "host": "https://mypokedex12121.netlify.app/",
+      "github": "https://github.com/EightonLeePaulse12/Pokedex.git"
+    },
+    {
+      "id": 6,
+      "name": "Rock Paper Scissors",
+      "image": "https://i.postimg.cc/Rh9rLPmt/Screenshot-2023-06-30-162337.png",
+      "description": "This was a small game that I decided to build during my free time. I had fun building this and this improved my skill and implementation skills using Javascript.",
+      "host": "https://rock-paper-scissors-10111.netlify.app/",
+      "github": "https://github.com/EightonLeePaulse12/Rock-Paper-Scissors.git"
+    },
+    {
+      "id": 7,
+      "name": "Temperature Converter",
+      "image": "https://i.postimg.cc/XYQ4s61g/temp-conv.png",
+      "description": "This was a temperature converter that I built one day during class out of boredom. This application converts from Celsius to Farenheit and vice versa.",
+      "host": "https://animated-monstera-d7aca0.netlify.app/",
+      "github": "https://github.com/EightonLeePaulse12/JS-Temperature-Converter.git"
+    },
+    {
+      "id": 8,
+      "name": "Javascript End Of Module Project",
+      "image": "https://i.postimg.cc/gkpsGxmN/Screenshot-2023-06-29-121359.png",
+      "description": "This was my second End Of Module Project that I built. It is an e-commerce website that uses local storage to change, update, create and delete products.",
+      "host": "https://js-eomp.netlify.app/",
+      "github": "https://github.com/EightonLeePaulse12/Javascript-EOMP.git"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Laiquah Cotie",
+      "image": "https://i.postimg.cc/Gp1FhgH6/C12-Laiquah-Cotie-2.jpg",
+      "testimonial": "Eighton-Lee is a team player and a vibrant person. His a hard-worker and always tries his best at getting a job done higher than the standards set. I would recommend him if you need someone who is committed and motivated to get a job done."
+    },
+    {
+      "id": 2,
+      "name": "Ganiefah Majiet",
+      "image": "https://i.postimg.cc/V6MTJMHZ/Ganiefah-Majiet.png",
+      "testimonial": "It's always a pleasure to work with Eighton-Lee. He has an infectious personality and he always brings out the best in others. He motivates everyone around him and he's always ready to offer a helping hand to anybody when needed. He has a go getter mindset that he applies himself to and does his best to achieve what he wants. I would definitely recommend him."
+    },
+    {
+      "id": 3,
+      "name": "Nuraan Samodien",
+      "image": "https://i.postimg.cc/9XNK88tH/Nuraan.jpg",
+      "testimonial": "Eighton-Lee is a highly thought intellectual from my perspective. He is passionate, ambitious, hardworking and always provides a helping hand to anyone who needs it. He has great communication and leadership skills and any company would be lucky to have him on their team."
+    },
+    {
+      "id": 4,
+      "name": "Mish-Al Taliep",
+      "image": "https://i.postimg.cc/WbpYMtW3/Mish-Al-Taliep.jpg",
+      "testimonial": "Eighton-Lee is an excellent student. He is always improving and looking for ways to up-skill himself. He shows good work ethics and is academically strong."
+    }
+  ]
+}
