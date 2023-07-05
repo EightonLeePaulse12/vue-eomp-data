@@ -60,7 +60,7 @@
     {
       "id": 1,
       "name": "To-Do List",
-      "image": "https://i.postimg.cc/cHXhPrWH/to-do-list.png",
+      "source": "https://myjstodolist12.netlify.app",
       "description": "We were tasked during the Javascript module to build a To-do list. It was quite a fun experience and it elevated my skills in applying Javascript to the next level.",
       "host": "https://myjstodolist12.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/New-To-do-list.git"
@@ -68,7 +68,7 @@
     {
       "id": 2,
       "name": "Calculator",
-      "image": "https://i.postimg.cc/GpKRHxrm/calc.png",
+      "source": "hhttps://myjavascriptcalculator123.netlify.app",
       "description": "This is my Javascript Calculator. Probably one of my most favourite projects that I have build. I learnt so much while building this application and I also use it whenever I need to calculate something.",
       "host": "https://myjavascriptcalculator123.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/JS-Calculator.git"
@@ -76,7 +76,7 @@
     {
       "id": 3,
       "name": "Random Meme Generator",
-      "image": "https://i.postimg.cc/BtfZxZzS/memes.png",
+      "source": "https://random-meme-generator12324354.netlify.app",
       "description": "This was a project that I built using an API that generates random memes. Before we started learning how to use and manipulate APIs, I took initiative one day whilst being bored to build my own project and this amazing, entertaining app is what I ended up building.",
       "host": "https://random-meme-generator12324354.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/Random-Meme-Generator.git"
@@ -84,7 +84,7 @@
     {
       "id": 4,
       "name": "Stop Watch",
-      "image": "https://i.postimg.cc/dtZ5W2WN/stop.png",
+      "source": "https://my-stop-watch1241421.netlify.app",
       "description": "This is a project I built once when I was incredibly bored at home. I wanted to learn more about Javascript timing functions and searched for a project to build. This is also one of my most favourite projects that I ever built.",
       "host": "https://my-stop-watch1241421.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/JS-Stop-Watch"
@@ -92,7 +92,7 @@
     {
       "id": 5,
       "name": "Pokédex App",
-      "image": "https://i.postimg.cc/qRdGZS51/Screenshot-2023-06-30-162513.png",
+      "source": "https://mypokedex12121.netlify.app",
       "description": "Another project I built to improve my skill using Javascript. This Pokédex gives you basic data about the popular anime series, Pokémon's first group of Pokémon.",
       "host": "https://mypokedex12121.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/Pokedex.git"
@@ -100,7 +100,7 @@
     {
       "id": 6,
       "name": "Rock Paper Scissors",
-      "image": "https://i.postimg.cc/Rh9rLPmt/Screenshot-2023-06-30-162337.png",
+      "source": "https://rock-paper-scissors-10111.netlify.app",
       "description": "This was a small game that I decided to build during my free time. I had fun building this and this improved my skill and implementation skills using Javascript.",
       "host": "https://rock-paper-scissors-10111.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/Rock-Paper-Scissors.git"
@@ -108,7 +108,7 @@
     {
       "id": 7,
       "name": "Temperature Converter",
-      "image": "https://i.postimg.cc/XYQ4s61g/temp-conv.png",
+      "source": "https://animated-monstera-d7aca0.netlify.app",
       "description": "This was a temperature converter that I built one day during class out of boredom. This application converts from Celsius to Farenheit and vice versa.",
       "host": "https://animated-monstera-d7aca0.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/JS-Temperature-Converter.git"
@@ -116,7 +116,7 @@
     {
       "id": 8,
       "name": "Javascript End Of Module Project",
-      "image": "https://i.postimg.cc/gkpsGxmN/Screenshot-2023-06-29-121359.png",
+      "source": "https://js-eomp.netlify.app",
       "description": "This was my second End Of Module Project that I built. It is an e-commerce website that uses local storage to change, update, create and delete products.",
       "host": "https://js-eomp.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/Javascript-EOMP.git"
