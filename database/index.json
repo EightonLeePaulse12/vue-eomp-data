@@ -68,7 +68,7 @@
     {
       "id": 2,
       "name": "Calculator",
-      "source": "hhttps://myjavascriptcalculator123.netlify.app",
+      "source": "https://myjavascriptcalculator123.netlify.app/",
       "description": "This is my Javascript Calculator. Probably one of my most favourite projects that I have build. I learnt so much while building this application and I also use it whenever I need to calculate something.",
       "host": "https://myjavascriptcalculator123.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/JS-Calculator.git"
