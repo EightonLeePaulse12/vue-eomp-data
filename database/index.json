@@ -69,7 +69,7 @@
       "id": 2,
       "name": "Calculator",
       "source": "https://myjavascriptcalculator123.netlify.app/",
-      "description": "This is my Javascript Calculator. Probably one of my most favourite projects that I have build. I learnt so much while building this application and I also use it whenever I need to calculate something.",
+      "description": "This is my Javascript Calculator. Probably one of my most favourite projects that I have build. I even added my own extra twist by adding the keyboard functions. I am hoping to fix the keyboard functions soon. I learnt so much while building this application and I also use it whenever I need to calculate something.",
       "host": "https://myjavascriptcalculator123.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/JS-Calculator.git"
     },
@@ -117,7 +117,7 @@
       "id": 8,
       "name": "Javascript End Of Module Project",
       "source": "https://js-eomp.netlify.app",
-      "description": "This was my second End Of Module Project that I built. It is an e-commerce website that uses local storage to change, update, create and delete products.",
+      "description": "This was my second End Of Module Project that I built. It is an e-commerce website that uses local storage to change, update, create and delete products. It was not completely finished but I am looking forward to correcting soon. In the duration of this project, I learnt so much about myself as a developer in this time.",
       "host": "https://js-eomp.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/Javascript-EOMP.git"
     }
