@@ -61,7 +61,7 @@
       "id": 1,
       "name": "To-Do List",
       "source": "https://myjstodolist12.netlify.app",
-      "description": "We were tasked during the Javascript module to build a To-do list. It was quite a fun experience and it elevated my skills in applying Javascript to the next level.",
+      "description": "We were tasked during the Javascript module to build a To-do list. It was quite a fun experience and it elevated my skills in applying Javascript to the next level. This was also one of the things that I had the most trouble building but eventually with time and effort, I got everything to work the way I wanted it to.",
       "host": "https://myjstodolist12.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/New-To-do-list.git"
     },
@@ -85,7 +85,7 @@
       "id": 4,
       "name": "Stop Watch",
       "source": "https://my-stop-watch1241421.netlify.app",
-      "description": "This is a project I built once when I was incredibly bored at home. I wanted to learn more about Javascript timing functions and searched for a project to build and I got this, it was quite difficult but I eventually got the hang of it and figured it out. This is also one of my most favourite projects that I ever built.",
+      "description": "This is a project I built once when I was incredibly bored at home. I wanted to learn more about Javascript timing functions and searched for a project to build and I got this on a website that gave random projects for developers to try and build, it was quite difficult but I eventually got the hang of it and figured it out. This is also one of my most favourite projects that I ever built.",
       "host": "https://my-stop-watch1241421.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/JS-Stop-Watch"
     },
@@ -109,7 +109,7 @@
       "id": 7,
       "name": "Temperature Converter",
       "source": "https://animated-monstera-d7aca0.netlify.app",
-      "description": "This was a temperature converter that I built one day during class out of boredom. This application converts from Celsius to Farenheit and vice versa.",
+      "description": "This was a temperature converter that I built one day during class out of boredom. This application converts from Celsius to Farenheit and vice versa. At the time, it was quite a simple task as I was getting quite used to using and implementing Javascript, however this also assisted in improving my skills using Javascript.",
       "host": "https://animated-monstera-d7aca0.netlify.app/",
       "github": "https://github.com/EightonLeePaulse12/JS-Temperature-Converter.git"
     },
